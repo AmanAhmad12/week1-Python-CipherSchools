@@ -1,5 +1,5 @@
 # string methods part one
-name = "HaRsh rAj"
+name = "AmAn AhMad"
 
 # 1 len() function
 length = len(name)
