@@ -1,2 +1,2 @@
-# print("Harsh"[-1::-1])
-print("Harsh"[::-1]) # trick
+# print("Aman"[-1::-1])
+print("Aman"[::-1]) # trick
